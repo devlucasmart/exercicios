@@ -1,4 +1,11 @@
-import java.util.*;
+package java.ListaEncadeada;
+
+import java.util.Arrays;
+import java.util.LinkedHashSet;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Random;
+import java.util.Set;
 
 public class Desafio01 {
     private static final int MIN_VALUE = -100;
